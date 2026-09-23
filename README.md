@@ -1,1 +1,1 @@
-# information-retrieval
+# Akıllı Bilgi Erişim Sistemleri ve Metin Analitiği
